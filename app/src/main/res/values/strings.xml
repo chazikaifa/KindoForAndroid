@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KINDO</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_start">开始游戏</string>
+    <string name="how_to_play">游戏玩法</string>
+    <string name="help">游戏双方的国王出生在对角位置，点击与自己棋子相邻的任意方块可以进行扩张，占领对方国王方块的一方则算是获得胜利。一开始每个回合只能行动两次，如果切断了对方棋子与国王之间的连接，不但可以占领大量格子，还可以获得额外的行动步数。 此外，如果某一方的行动步骤与对方的相同，那么则会奖励对方多一步行动步数。而除了进攻，游戏中也可以进行防守，滑动己方棋子的上下左右任意方向，即可强化对应方向的防守，抵御对方从该方向的进攻。不过要注意的是，强化防守也算是行动一步，而棋盘中间的其中三格无法强化防守。</string>
+</resources>
